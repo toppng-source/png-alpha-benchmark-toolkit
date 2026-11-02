@@ -1,0 +1,6 @@
+{
+  "name": "@toppng/png-alpha-benchmark-toolkit",
+  "version": "1.0.2",
+  "exports": "./mod.ts",
+  "license": "MIT"
+}

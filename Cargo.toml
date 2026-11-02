@@ -1,0 +1,13 @@
+[package]
+name = "png-alpha-benchmark-toolkit"
+version = "1.0.2"
+edition = "2021"
+authors = ["Islam Gamal <toppng.com@gmail.com>"]
+description = "Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite"
+license = "MIT"
+homepage = "https://toppng.com/"
+repository = "https://github.com/toppng-source/png-alpha-benchmark-toolkit"
+documentation = "https://docs.rs/png-alpha-benchmark-toolkit"
+readme = "README.md"
+keywords = ["png", "alpha-channel", "compression", "image-processing", "iso-15948"]
+categories = ["multimedia::images", "compression", "algorithms"]

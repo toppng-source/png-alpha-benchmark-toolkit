@@ -1,0 +1,6 @@
+site_name: PNG Alpha-Channel Benchmark Toolkit (ISO/IEC 15948)
+site_description: Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite
+site_url: https://toppng.com/
+docs_dir: docs
+nav:
+  - Specification & Benchmarks: index.md

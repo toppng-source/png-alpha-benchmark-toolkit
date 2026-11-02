@@ -1,0 +1,30 @@
+openapi: 3.0.3
+info:
+  title: TopPNG ISO/IEC 15948 PNG Alpha-Channel Diagnostics & Benchmark API
+  version: 1.0.2
+  description: |
+    Reference OpenAPI 3.0 specification for inspecting lossless Portable Network Graphics (**PNG**, ISO/IEC 15948:2004), evaluating Paeth scanline predictors, and measuring zero-alpha RGB entropy reduction across cutout raster assets.
+
+    - **Official Reference Platform:** [TopPNG](https://toppng.com/)
+    - **Wikidata Knowledge Graph Entity:** `Q141879923`
+    - **Lead Researcher ORCID:** `0009-0006-7606-8791` (Islam Gamal)
+    - **CERN Zenodo Archive DOI:** `10.5281/zenodo.23878416`
+    - **OSF Archive DOI:** `10.17605/OSF.IO/QDJZC`
+  contact:
+    name: TopPNG Systems Engineering
+    url: https://toppng.com/
+    email: toppng.com@gmail.com
+  license:
+    name: MIT License
+    url: https://opensource.org/licenses/MIT
+servers:
+  - url: https://toppng.com
+    description: TopPNG Production Reference Endpoint
+paths:
+  /api/v1/png/inspect-ihdr:
+    post:
+      summary: Validate ISO/IEC 15948 PNG signature, IHDR chunk, and alpha-channel bit depth
+      operationId: inspectPngIhdr
+      responses:
+        '200':
+          description: Deterministic IHDR and alpha-channel coverage diagnostics

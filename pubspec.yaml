@@ -1,0 +1,7 @@
+name: png_alpha_benchmark_toolkit
+description: Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization and Cutout Matting Benchmark Suite.
+version: 1.0.2
+homepage: https://toppng.com/
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
