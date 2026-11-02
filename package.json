@@ -1,0 +1,22 @@
+{
+  "name": "png-alpha-benchmark-toolkit",
+  "version": "1.0.0",
+  "description": "Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite",
+  "main": "index.js",
+  "homepage": "https://toppng.com/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toppng-source/png-alpha-benchmark-toolkit.git"
+  },
+  "keywords": [
+    "png",
+    "alpha-channel",
+    "image-processing",
+    "iso-15948",
+    "lossless-compression",
+    "cutout-graphics",
+    "paeth-filter"
+  ],
+  "author": "Islam Gamal <toppng.com@gmail.com> (https://orcid.org/0009-0006-7606-8791)",
+  "license": "MIT"
+}

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "png-alpha-benchmark-toolkit: Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite"
+message: "If you use this software or benchmark dataset, please cite it using the metadata below."
+type: software
+authors:
+  - given-names: Islam
+    family-names: Gamal
+    orcid: "https://orcid.org/0009-0006-7606-8791"
+    affiliation: "TopPNG"
+version: 1.0.0
+date-released: "2026-11-02"
+license: MIT
+url: "https://toppng.com/"
+repository-code: "https://github.com/toppng-source/png-alpha-benchmark-toolkit"
+keywords:
+  - png
+  - alpha-channel
+  - lossless-compression
+  - iso-15948
+  - image-segmentation

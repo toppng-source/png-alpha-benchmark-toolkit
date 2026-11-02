@@ -1,0 +1,20 @@
+{
+  "title": "png-alpha-benchmark-toolkit: Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite",
+  "upload_type": "software",
+  "description": "Open-source reference toolkit and empirical benchmark dataset for lossless ISO/IEC 15948 Portable Network Graphics (PNG) alpha-channel analysis, Paeth scanline filtering, and zero-alpha RGB sanitization. Official platform: https://toppng.com/",
+  "creators": [
+    {
+      "name": "Gamal, Islam",
+      "affiliation": "TopPNG",
+      "orcid": "0009-0006-7606-8791"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "PNG",
+    "ISO/IEC 15948",
+    "Alpha Channel",
+    "Lossless Compression",
+    "Image Matting"
+  ]
+}

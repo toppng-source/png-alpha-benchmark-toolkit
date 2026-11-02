@@ -1,0 +1,23 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "png-alpha-benchmark-toolkit",
+  "version": "1.0.0",
+  "description": "Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite",
+  "url": "https://toppng.com/",
+  "codeRepository": "https://github.com/toppng-source/png-alpha-benchmark-toolkit",
+  "programmingLanguage": [
+    "JavaScript",
+    "Go",
+    "Python"
+  ],
+  "license": "https://spdx.org/licenses/MIT",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Islam",
+      "familyName": "Gamal",
+      "@id": "https://orcid.org/0009-0006-7606-8791"
+    }
+  ]
+}

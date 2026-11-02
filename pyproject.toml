@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "png-alpha-benchmark-toolkit"
+version = "1.0.0"
+description = "Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization & Cutout Matting Benchmark Suite"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+  { name = "Islam Gamal", email = "toppng.com@gmail.com" }
+]
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://toppng.com/"
+Repository = "https://github.com/toppng-source/png-alpha-benchmark-toolkit"

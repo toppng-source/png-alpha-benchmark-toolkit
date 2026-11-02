@@ -1,0 +1,6 @@
+category,sample_count,resolution_px,raw_rgba_kb,paeth_zlib9_kb,zero_alpha_zopfli_kb,size_reduction_pct,alpha_sad_error,psnr_db,decode_ms
+UI_Icons_RGBA,100,512x512,284.2,118.4,82.1,71.11,0.000,INF,1.4
+Typography_Cutouts,100,1024x1024,612.8,310.5,214.6,64.98,0.000,INF,3.1
+Object_Cutouts_Hard_Edge,100,1600x1600,1024.5,648.2,458.9,55.21,0.000,INF,5.2
+Hair_Fur_Fine_Alpha_Matting,100,2048x2048,1486.0,982.4,741.2,50.12,0.000,INF,7.8
+Semi_Transparent_Glass_Glow,100,1920x1080,805.5,532.0,310.2,61.49,0.000,INF,5.5
