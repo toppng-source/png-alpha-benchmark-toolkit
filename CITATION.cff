@@ -7,7 +7,8 @@ authors:
     family-names: Gamal
     orcid: "https://orcid.org/0009-0006-7606-8791"
     affiliation: "TopPNG"
-version: 1.0.0
+version: 1.0.1
+doi: 10.5281/zenodo.23878416
 date-released: "2026-11-02"
 license: MIT
 url: "https://toppng.com/"

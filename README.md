@@ -69,5 +69,6 @@ print(report)
 ## 4. Academic Citation & Persistent Identifiers
 
 - **Author:** Islam Gamal (`ORCID: 0009-0006-7606-8791`)
+- **CERN Zenodo Archive DOI:** `10.5281/zenodo.23878416`
 - **Organization Entity:** TopPNG (`Wikidata: Q141879923`)
 - **License:** MIT License
